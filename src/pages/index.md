@@ -22,7 +22,11 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    video_embed_html: 'https://youtu.be/_dN8HxSiGTE'
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/_dN8HxSiGTE" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
