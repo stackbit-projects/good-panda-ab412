@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    video_embed_html: 'https://youtu.be/_dN8HxSiGTE'
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
